@@ -1,0 +1,6 @@
+{
+  "name": "منار الإسلام",
+  "description": "تطبيق إسلامي شامل للقرآن الكريم، مواقيت الصلاة، الأذكار، اتجاه القبلة، والوسائط الإذاعية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
